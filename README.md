@@ -1,2 +1,2 @@
 # enzyme-characterisation
-Files used for preparing enzyme assays (NADH linked) and the analysis of the data.
+Files used for preparing NADH-linked enzyme assays and the analysis of the data.
